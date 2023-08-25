@@ -4,102 +4,102 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '18f'),
+    component: ComponentCreator('/__docusaurus/debug', 'edd'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'd3b'),
+    component: ComponentCreator('/__docusaurus/debug/config', '9cd'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'be0'),
+    component: ComponentCreator('/__docusaurus/debug/content', 'cc5'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'e85'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '7bb'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '4b7'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', 'b4a'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '5a7'),
+    component: ComponentCreator('/__docusaurus/debug/registry', 'd34'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'b52'),
+    component: ComponentCreator('/__docusaurus/debug/routes', 'dc9'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'a3f'),
+    component: ComponentCreator('/blog', '9f5'),
     exact: true
   },
   {
     path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '53c'),
+    component: ComponentCreator('/blog/archive', '7d6'),
     exact: true
   },
   {
     path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', 'a0a'),
+    component: ComponentCreator('/blog/first-blog-post', '53a'),
     exact: true
   },
   {
     path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9a4'),
+    component: ComponentCreator('/blog/long-blog-post', '352'),
     exact: true
   },
   {
     path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '4cb'),
+    component: ComponentCreator('/blog/mdx-blog-post', '21e'),
     exact: true
   },
   {
     path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '168'),
+    component: ComponentCreator('/blog/tags', '432'),
     exact: true
   },
   {
     path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '415'),
+    component: ComponentCreator('/blog/tags/docusaurus', '299'),
     exact: true
   },
   {
     path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '299'),
+    component: ComponentCreator('/blog/tags/facebook', '92d'),
     exact: true
   },
   {
     path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', 'e70'),
+    component: ComponentCreator('/blog/tags/hello', '9e1'),
     exact: true
   },
   {
     path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '312'),
+    component: ComponentCreator('/blog/tags/hola', '52c'),
     exact: true
   },
   {
     path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd78'),
+    component: ComponentCreator('/blog/welcome', 'fe7'),
     exact: true
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'eb5'),
+    component: ComponentCreator('/markdown-page', 'ee8'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '63f'),
+    component: ComponentCreator('/docs', '402'),
     routes: [
       {
         path: '/docs/category/instalación-y-configuración-gnu-radio',
@@ -207,7 +207,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '763'),
+    component: ComponentCreator('/', 'be5'),
     exact: true
   },
   {
