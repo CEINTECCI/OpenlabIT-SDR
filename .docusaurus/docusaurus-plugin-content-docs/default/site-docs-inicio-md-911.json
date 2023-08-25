@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Inicio",
+  "id": "Inicio",
+  "title": "Introducción a GNU Radio:",
+  "description": "Esta página lo guiará a través de la herramienta GNU Radio. GNU Radio es un paquete de radio definido por software robusto y muy popular. Es de código abierto y es relativamente muy fácil de usar. Toda la \"codificación\" se realiza mediante diagramas de flujo compuestos por bloques de procesamiento de señales digitales interconectados.",
+  "source": "@site/docs/Inicio.md",
+  "sourceDirName": ".",
+  "slug": "/Inicio",
+  "permalink": "/docs/Inicio",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Inicio.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Instalación y configuración GNU radio:",
+    "permalink": "/docs/category/instalación-y-configuración-gnu-radio"
+  }
+}

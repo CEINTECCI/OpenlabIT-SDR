@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Primeros-pasos/markdown-partial-example",
+  "id": "Primeros-pasos/markdown-partial-example",
+  "title": "markdown-partial-example",
+  "description": "prueba",
+  "source": "@site/docs/Primeros-pasos/markdown-partial-example.mdx",
+  "sourceDirName": "Primeros-pasos",
+  "slug": "/Primeros-pasos/markdown-partial-example",
+  "permalink": "/docs/Primeros-pasos/markdown-partial-example",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Primeros-pasos/markdown-partial-example.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Primeros pasos",
+    "permalink": "/docs/Primeros-pasos/Conceptos-basicos"
+  },
+  "next": {
+    "title": "someOtherDoc",
+    "permalink": "/docs/Primeros-pasos/someOtherDoc"
+  }
+}

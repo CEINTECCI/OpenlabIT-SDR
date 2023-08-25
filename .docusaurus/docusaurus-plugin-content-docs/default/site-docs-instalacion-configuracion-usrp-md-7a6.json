@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Instalacion/Configuracion-USRP",
+  "id": "Instalacion/Configuracion-USRP",
+  "title": "Instalación en Windows",
+  "description": "El primer programa que necesita es el controlador de hardware USRP (UHD) e imágenes de la FPGA. Puede encontrar muchas versiones diferentes de los UHD-binarios con el siguiente enlace files.ettus, una vez instalado en el símbolo de sistema use uhdfind_devices debe salirle:",
+  "source": "@site/docs/Instalacion/Configuracion-USRP.md",
+  "sourceDirName": "Instalacion",
+  "slug": "/Instalacion/Configuracion-USRP",
+  "permalink": "/docs/Instalacion/Configuracion-USRP",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Instalacion/Configuracion-USRP.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Instalación GNU-Radio",
+    "permalink": "/docs/Instalacion/Instalacion-GNURADIO"
+  },
+  "next": {
+    "title": "Instalación en Raspberry PI:",
+    "permalink": "/docs/Instalacion/Instalacion-rpi"
+  }
+}

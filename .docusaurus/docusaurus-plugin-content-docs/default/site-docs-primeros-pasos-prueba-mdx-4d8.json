@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Primeros-pasos/Prueba",
+  "id": "Primeros-pasos/Prueba",
+  "title": "Prueba",
+  "description": "<Tabs",
+  "source": "@site/docs/Primeros-pasos/Prueba.mdx",
+  "sourceDirName": "Primeros-pasos",
+  "slug": "/Primeros-pasos/Prueba",
+  "permalink": "/docs/Primeros-pasos/Prueba",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Primeros-pasos/Prueba.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Primeros pasos",
+    "permalink": "/docs/Primeros-pasos/Configuracion-USRP"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

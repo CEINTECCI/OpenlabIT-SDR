@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Primeros-pasos/Instalacion-GNURADIO",
+  "id": "Primeros-pasos/Instalacion-GNURADIO",
+  "title": "Instalacion-GNURADIO",
+  "description": "Instalación GNU-Radio",
+  "source": "@site/docs/Primeros-pasos/Instalacion-GNURADIO.md",
+  "sourceDirName": "Primeros-pasos",
+  "slug": "/Primeros-pasos/Instalacion-GNURADIO",
+  "permalink": "/docs/Primeros-pasos/Instalacion-GNURADIO",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Primeros-pasos/Instalacion-GNURADIO.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Primeros pasos con GNU Radio:",
+    "permalink": "/docs/category/primeros-pasos-con-gnu-radio"
+  },
+  "next": {
+    "title": "Configuracion-USRP",
+    "permalink": "/docs/Primeros-pasos/Configuracion-USRP"
+  }
+}

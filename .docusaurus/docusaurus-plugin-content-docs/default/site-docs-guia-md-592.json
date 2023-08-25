@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Guia",
+  "id": "Guia",
+  "title": "Guia",
+  "description": "",
+  "source": "@site/docs/Guia.md",
+  "sourceDirName": ".",
+  "slug": "/Guia",
+  "permalink": "/docs/Guia",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Guia.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}

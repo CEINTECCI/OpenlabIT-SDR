@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Instalacion/Instalacion-rpi",
+  "id": "Instalacion/Instalacion-rpi",
+  "title": "Instalación en Raspberry PI:",
+  "description": "En muchos casos, los controladores necesarios para el USRP B200/B210 ya están incluidos en el kernel del sistema operativo de Raspberry PI, por lo que deberían reconocerse automáticamente cuando conecte el dispositivo a la Raspberry Pi. Para verificar si el USRP B200/B210 es reconocido, puedes ejecutar el siguiente comando en la terminal:",
+  "source": "@site/docs/Instalacion/Instalacion-rpi.mdx",
+  "sourceDirName": "Instalacion",
+  "slug": "/Instalacion/Instalacion-rpi",
+  "permalink": "/docs/Instalacion/Instalacion-rpi",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Instalacion/Instalacion-rpi.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuración USRP",
+    "permalink": "/docs/Instalacion/Configuracion-USRP"
+  },
+  "next": {
+    "title": "Instalación en Windows",
+    "permalink": "/docs/Instalacion/Instalacion-wn"
+  }
+}

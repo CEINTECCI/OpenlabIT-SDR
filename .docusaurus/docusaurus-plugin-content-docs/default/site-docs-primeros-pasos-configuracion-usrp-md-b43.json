@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Primeros-pasos/Configuracion-USRP",
+  "id": "Primeros-pasos/Configuracion-USRP",
+  "title": "Primeros pasos",
+  "description": "carreta",
+  "source": "@site/docs/Primeros-pasos/Configuracion-USRP.md",
+  "sourceDirName": "Primeros-pasos",
+  "slug": "/Primeros-pasos/Configuracion-USRP",
+  "permalink": "/docs/Primeros-pasos/Configuracion-USRP",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Primeros-pasos/Configuracion-USRP.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Primeros pasos con GNU Radio:",
+    "permalink": "/docs/category/primeros-pasos-con-gnu-radio"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

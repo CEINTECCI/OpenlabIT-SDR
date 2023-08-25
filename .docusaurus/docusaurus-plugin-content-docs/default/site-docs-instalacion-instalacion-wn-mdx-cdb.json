@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Instalacion/Instalacion-wn",
+  "id": "Instalacion/Instalacion-wn",
+  "title": "Instalación en Windows",
+  "description": "El primer programa que necesita es el controlador de hardware USRP (UHD) e imágenes de la FPGA. Puede encontrar muchas versiones diferentes de los UHD-binarios con el siguiente enlace files.ettus, una vez instalado en el símbolo de sistema use uhdfind_devices debe salirle:",
+  "source": "@site/docs/Instalacion/Instalacion-wn.mdx",
+  "sourceDirName": "Instalacion",
+  "slug": "/Instalacion/Instalacion-wn",
+  "permalink": "/docs/Instalacion/Instalacion-wn",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Instalacion/Instalacion-wn.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuración USRP",
+    "permalink": "/docs/Instalacion/Configuracion-USRP"
+  },
+  "next": {
+    "title": "Primeros pasos con GNU Radio:",
+    "permalink": "/docs/category/primeros-pasos-con-gnu-radio"
+  }
+}
