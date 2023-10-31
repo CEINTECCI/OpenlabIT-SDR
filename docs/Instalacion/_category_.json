@@ -1,6 +1,6 @@
 {
   "label": "Instalación y configuración GNU radio:",
-  "position": 3,
+  "position": 4,
   "link": {
     "type": "generated-index",
      "description": "Aca encontrara una guía de inicialización y los controladores de la tarjeta USRP B200/B210 para trabajar en GNU Radio."

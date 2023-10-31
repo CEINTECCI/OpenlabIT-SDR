@@ -5,8 +5,8 @@
   "permalink": "/docs/category/instalación-y-configuración-gnu-radio",
   "navigation": {
     "previous": {
-      "title": "Introducción a GNU Radio:",
-      "permalink": "/docs/Inicio"
+      "title": "Ejemplo básico",
+      "permalink": "/docs/Primeros-pasos/Ejemplos-Basicos"
     },
     "next": {
       "title": "Instalación GNU-Radio",

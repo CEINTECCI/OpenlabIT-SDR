@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # SDR
 
-Un SDR(Software-Defined Radio), o Radio Definida por Software en español, es un sistema de comunicación que se diferencia de la radio tradicional en un aspecto fundamental: la mayor parte de su funcionalidad es implementada por software en lugar de hardware específico. En la radio convencional, los circuitos y componentes electrónicos están diseñados para operar en frecuencias específicas y modos de comunicación, lo que limita su versatilidad. Por otro lado, un sistema SDR es altamente configurable y se adapta a una amplia gama de aplicaciones de comunicación y recepción de señales de radio.
+Un SDR(Software-Defined Radio), o Radio Definida por Software en español, es un sistema de comunicación que se diferencia de la radio tradicional en dos aspectos fundamentales: El primero de ellos es que la mayor parte de la funcionalidad del SDR es implementada por software en lugar de hardware específico (como se haría en una radio tradicional). Lo anterior le permite al SDR ganar versatilidad en contraste con lo que hace la radio convencional, en esta ultima los circuitos y componentes electrónicos están diseñados para operar en frecuencias específicas y modos de comunicación. Por otro lado, el segundo aspecto reside en que el SDR al ser un sistema altamente configurable  se adapta a una amplia gama de aplicaciones de comunicación y recepción de señales en contraste con el marco de posibilidades que ofrece la radio tradicional en cuanto a la recepción de frecuencias determinadas.
 
 La estructura de un sistema SDR se puede dividir en los siguientes componentes:
 

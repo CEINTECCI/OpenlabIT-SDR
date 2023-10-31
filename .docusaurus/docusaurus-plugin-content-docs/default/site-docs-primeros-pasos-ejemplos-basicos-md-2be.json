@@ -16,5 +16,9 @@
   "previous": {
     "title": "Primeros pasos",
     "permalink": "/docs/Primeros-pasos/Conceptos-basicos"
+  },
+  "next": {
+    "title": "Instalación y configuración GNU radio:",
+    "permalink": "/docs/category/instalación-y-configuración-gnu-radio"
   }
 }

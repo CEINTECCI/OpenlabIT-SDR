@@ -4,8 +4,8 @@
   "permalink": "/docs/category/primeros-pasos-con-gnu-radio",
   "navigation": {
     "previous": {
-      "title": "Configuración USRP",
-      "permalink": "/docs/Instalacion/Configuracion-USRP"
+      "title": "Introducción a GNU Radio:",
+      "permalink": "/docs/Inicio"
     },
     "next": {
       "title": "Primeros pasos",

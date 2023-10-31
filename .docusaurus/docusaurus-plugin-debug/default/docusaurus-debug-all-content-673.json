@@ -42,8 +42,8 @@
                 "permalink": "/docs/Software"
               },
               "next": {
-                "title": "Instalación y configuración GNU radio:",
-                "permalink": "/docs/category/instalación-y-configuración-gnu-radio"
+                "title": "Primeros pasos con GNU Radio:",
+                "permalink": "/docs/category/primeros-pasos-con-gnu-radio"
               }
             },
             {
@@ -67,10 +67,6 @@
               "previous": {
                 "title": "Instalación GNU-Radio",
                 "permalink": "/docs/Instalacion/Instalacion-GNURADIO"
-              },
-              "next": {
-                "title": "Primeros pasos con GNU Radio:",
-                "permalink": "/docs/category/primeros-pasos-con-gnu-radio"
               }
             },
             {
@@ -145,13 +141,17 @@
               "previous": {
                 "title": "Primeros pasos",
                 "permalink": "/docs/Primeros-pasos/Conceptos-basicos"
+              },
+              "next": {
+                "title": "Instalación y configuración GNU radio:",
+                "permalink": "/docs/category/instalación-y-configuración-gnu-radio"
               }
             },
             {
               "unversionedId": "SDR",
               "id": "SDR",
               "title": "SDR",
-              "description": "Un SDR(Software-Defined Radio), o Radio Definida por Software en español, es un sistema de comunicación que se diferencia de la radio tradicional en un aspecto fundamental: la mayor parte de su funcionalidad es implementada por software en lugar de hardware específico. En la radio convencional, los circuitos y componentes electrónicos están diseñados para operar en frecuencias específicas y modos de comunicación, lo que limita su versatilidad. Por otro lado, un sistema SDR es altamente configurable y se adapta a una amplia gama de aplicaciones de comunicación y recepción de señales de radio.",
+              "description": "Un SDR(Software-Defined Radio), o Radio Definida por Software en español, es un sistema de comunicación que se diferencia de la radio tradicional en dos aspectos fundamentales: El primero de ellos es que la mayor parte de la funcionalidad del SDR es implementada por software en lugar de hardware específico (como se haría en una radio tradicional). Lo anterior le permite al SDR ganar versatilidad en contraste con lo que hace la radio convencional, en esta ultima los circuitos y componentes electrónicos están diseñados para operar en frecuencias específicas y modos de comunicación. Por otro lado, el segundo aspecto reside en que el SDR al ser un sistema altamente configurable  se adapta a una amplia gama de aplicaciones de comunicación y recepción de señales en contraste con el marco de posibilidades que ofrece la radio tradicional en cuanto a la recepción de frecuencias determinadas.",
               "source": "@site/docs/SDR.md",
               "sourceDirName": ".",
               "slug": "/SDR",
@@ -215,6 +215,27 @@
               },
               {
                 "type": "category",
+                "label": "Primeros pasos con GNU Radio:",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Primeros-pasos/Conceptos-basicos"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Primeros-pasos/Ejemplos-Basicos"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/primeros-pasos-con-gnu-radio",
+                  "permalink": "/docs/category/primeros-pasos-con-gnu-radio"
+                }
+              },
+              {
+                "type": "category",
                 "label": "Instalación y configuración GNU radio:",
                 "collapsible": true,
                 "collapsed": true,
@@ -233,27 +254,6 @@
                   "description": "Aca encontrara una guía de inicialización y los controladores de la tarjeta USRP B200/B210 para trabajar en GNU Radio.",
                   "slug": "/category/instalación-y-configuración-gnu-radio",
                   "permalink": "/docs/category/instalación-y-configuración-gnu-radio"
-                }
-              },
-              {
-                "type": "category",
-                "label": "Primeros pasos con GNU Radio:",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Primeros-pasos/Conceptos-basicos"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Primeros-pasos/Ejemplos-Basicos"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "slug": "/category/primeros-pasos-con-gnu-radio",
-                  "permalink": "/docs/category/primeros-pasos-con-gnu-radio"
                 }
               }
             ]
