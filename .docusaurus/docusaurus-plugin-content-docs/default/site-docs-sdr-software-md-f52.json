@@ -1,14 +1,14 @@
 {
-  "unversionedId": "Software",
-  "id": "Software",
+  "unversionedId": "SDR/Software",
+  "id": "SDR/Software",
   "title": "Tarjetas SDR",
   "description": "Las tarjetas SDR vienen en diversas formas, tamaños y capacidades, y seleccionar la adecuada es crucial para garantizar que puedas abordar tus objetivos de manera efectiva, las diferencias entre las tarjetas SDR se pueden clasificar en las siguientes categorías:",
-  "source": "@site/docs/Software.md",
-  "sourceDirName": ".",
-  "slug": "/Software",
-  "permalink": "/docs/Software",
+  "source": "@site/docs/SDR/Software.md",
+  "sourceDirName": "SDR",
+  "slug": "/SDR/Software",
+  "permalink": "/docs/SDR/Software",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/SDR/Software.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -18,7 +18,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "SDR",
-    "permalink": "/docs/SDR"
+    "permalink": "/docs/SDR/"
   },
   "next": {
     "title": "Introducción a GNU Radio:",

@@ -4,9 +4,16 @@ sidebar_position: 1
 
 # SDR
 
-Un SDR(Software-Defined Radio), o Radio Definida por Software en español, es un sistema de comunicación que se diferencia de la radio tradicional en un aspecto fundamental: la mayor parte de su funcionalidad es implementada por software en lugar de hardware específico. En la radio convencional, los circuitos y componentes electrónicos están diseñados para operar en frecuencias específicas y modos de comunicación, lo que limita su versatilidad. Por otro lado, un SDR es altamente configurable y se adapta a una amplia gama de aplicaciones de comunicación y recepción de señales de radio.
+Un SDR(Software-Defined Radio), o Radio Definida por Software en español, es un sistema de comunicación que se diferencia de la radio tradicional en un aspecto fundamental: la mayor parte de su funcionalidad es implementada por software en lugar de hardware específico. En la radio convencional, los circuitos y componentes electrónicos están diseñados para operar en frecuencias específicas y modos de comunicación, lo que limita su versatilidad. Por otro lado, un sistema SDR es altamente configurable y se adapta a una amplia gama de aplicaciones de comunicación y recepción de señales de radio.
 
-### Características
+La estructura de un sistema SDR se puede dividir en los siguientes componentes:
+
+- **Tarjeta SDR:** La tarjeta SDR es el componente principal de un sistema SDR. Es responsable de la recepción y transmisión de señales de radio.
+- **Software:** El software se utiliza para controlar la tarjeta SDR y procesar las señales de radio.
+- **Una antena:** La antena se utiliza para recibir y transmitir señales de radio.
+- **Un ordenador o sistema embebido:** El ordenador o sistema embebido se utiliza para procesar las señales de radio.
+
+## Características
 
 - **Conversión Analógico-Digital:** En un SDR, la señal de radio analógica se convierte en datos digitales mediante un convertidor analógico a digital (ADC). Esto permite que la señal de radio sea procesada y analizada por software en una computadora.
 
@@ -28,9 +35,3 @@ Las SDR (Software-Defined Radio) son herramientas versátiles que pueden utiliza
 
 - **Radioastronomía:** La radioastronomía es una disciplina que utiliza SDR para estudiar las señales de radio emitidas por objetos celestes en el espacio. Con una SDR y una antena direccional, puedes escuchar y analizar señales de radio cósmicas.
 
-## Tarjetas
-
-Las tarjetas SDR vienen en diversas formas, tamaños y capacidades, y seleccionar la adecuada es crucial para garantizar que puedas abordar tus objetivos de manera efectiva.
-
-
-### Características:

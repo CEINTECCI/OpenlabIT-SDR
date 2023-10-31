@@ -38,7 +38,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Software",
+                "title": "Tarjetas SDR",
                 "permalink": "/docs/Software"
               },
               "next": {
@@ -155,7 +155,7 @@
               "unversionedId": "SDR",
               "id": "SDR",
               "title": "SDR",
-              "description": "Un SDR(Software-Defined Radio), o Radio Definida por Software en español, es un sistema de comunicación que se diferencia de la radio tradicional en un aspecto fundamental: la mayor parte de su funcionalidad es implementada por software en lugar de hardware específico. En la radio convencional, los circuitos y componentes electrónicos están diseñados para operar en frecuencias específicas y modos de comunicación, lo que limita su versatilidad. Por otro lado, un SDR es altamente configurable y se adapta a una amplia gama de aplicaciones de comunicación y recepción de señales de radio.",
+              "description": "Un SDR(Software-Defined Radio), o Radio Definida por Software en español, es un sistema de comunicación que se diferencia de la radio tradicional en un aspecto fundamental: la mayor parte de su funcionalidad es implementada por software en lugar de hardware específico. En la radio convencional, los circuitos y componentes electrónicos están diseñados para operar en frecuencias específicas y modos de comunicación, lo que limita su versatilidad. Por otro lado, un sistema SDR es altamente configurable y se adapta a una amplia gama de aplicaciones de comunicación y recepción de señales de radio.",
               "source": "@site/docs/SDR.md",
               "sourceDirName": ".",
               "slug": "/SDR",
@@ -170,15 +170,15 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Software",
+                "title": "Tarjetas SDR",
                 "permalink": "/docs/Software"
               }
             },
             {
               "unversionedId": "Software",
               "id": "Software",
-              "title": "Software",
-              "description": "Softwares",
+              "title": "Tarjetas SDR",
+              "description": "Las tarjetas SDR vienen en diversas formas, tamaños y capacidades, y seleccionar la adecuada es crucial para garantizar que puedas abordar tus objetivos de manera efectiva, las diferencias entre las tarjetas SDR se pueden clasificar en las siguientes categorías:",
               "source": "@site/docs/Software.md",
               "sourceDirName": ".",
               "slug": "/Software",
