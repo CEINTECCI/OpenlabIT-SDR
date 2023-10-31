@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Inicio",
+          "mainDocId": "SDR",
           "docs": [
             {
               "id": "Inicio",
@@ -33,6 +33,16 @@
             {
               "id": "Primeros-pasos/Ejemplos-Basicos",
               "path": "/docs/Primeros-pasos/Ejemplos-Basicos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "SDR",
+              "path": "/docs/SDR",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Software",
+              "path": "/docs/Software",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -100,8 +110,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/Inicio",
-                "label": "Inicio"
+                "path": "/docs/SDR",
+                "label": "SDR"
               }
             }
           }

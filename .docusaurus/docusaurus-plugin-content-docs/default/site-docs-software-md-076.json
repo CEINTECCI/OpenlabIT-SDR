@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Software",
+  "id": "Software",
+  "title": "Software",
+  "description": "Softwares",
+  "source": "@site/docs/Software.md",
+  "sourceDirName": ".",
+  "slug": "/Software",
+  "permalink": "/docs/Software",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Software.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SDR",
+    "permalink": "/docs/SDR"
+  },
+  "next": {
+    "title": "Introducción a GNU Radio:",
+    "permalink": "/docs/Inicio"
+  }
+}

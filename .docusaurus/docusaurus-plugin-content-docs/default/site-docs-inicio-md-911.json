@@ -11,11 +11,15 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Inicio.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Software",
+    "permalink": "/docs/Software"
+  },
   "next": {
     "title": "Instalación y configuración GNU radio:",
     "permalink": "/docs/category/instalación-y-configuración-gnu-radio"

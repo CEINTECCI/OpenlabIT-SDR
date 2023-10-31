@@ -11,6 +11,18 @@
     "tutorialSidebar": [
       {
         "type": "link",
+        "label": "SDR",
+        "href": "/docs/SDR",
+        "docId": "SDR"
+      },
+      {
+        "type": "link",
+        "label": "Software",
+        "href": "/docs/Software",
+        "docId": "Software"
+      },
+      {
+        "type": "link",
         "label": "Introducción a GNU Radio:",
         "href": "/docs/Inicio",
         "docId": "Inicio"
@@ -154,6 +166,18 @@
       "id": "Primeros-pasos/Ejemplos-Basicos",
       "title": "Ejemplo básico",
       "description": "Generador forma de onda simple:",
+      "sidebar": "tutorialSidebar"
+    },
+    "SDR": {
+      "id": "SDR",
+      "title": "SDR",
+      "description": "Un SDR(Software-Defined Radio), o Radio Definida por Software en español, es un sistema de comunicación que se diferencia de la radio tradicional en un aspecto fundamental: la mayor parte de su funcionalidad es implementada por software en lugar de hardware específico. En la radio convencional, los circuitos y componentes electrónicos están diseñados para operar en frecuencias específicas y modos de comunicación, lo que limita su versatilidad. Por otro lado, un SDR es altamente configurable y se adapta a una amplia gama de aplicaciones de comunicación y recepción de señales de radio.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Software": {
+      "id": "Software",
+      "title": "Software",
+      "description": "Softwares",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/congratulations": {

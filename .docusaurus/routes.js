@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '402'),
+    component: ComponentCreator('/docs', '8b9'),
     routes: [
       {
         path: '/docs/category/instalación-y-configuración-gnu-radio',
@@ -152,6 +152,18 @@ export default [
       {
         path: '/docs/Primeros-pasos/Ejemplos-Basicos',
         component: ComponentCreator('/docs/Primeros-pasos/Ejemplos-Basicos', '3bc'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/SDR',
+        component: ComponentCreator('/docs/SDR', '23b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/Software',
+        component: ComponentCreator('/docs/Software', '78f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
