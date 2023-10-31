@@ -27,11 +27,14 @@ La estructura de un sistema SDR se puede dividir en los siguientes componentes:
 
 Las SDR (Software-Defined Radio) son herramientas versátiles que pueden utilizarse en una amplia variedad de proyectos e investigaciones, como lo son:
 
-- **Recepción de Radio FM y AM:** Puedes utilizar una SDR para sintonizar emisoras de radio FM y AM
+- **Recepción de Radio FM y AM:** Puedes utilizar una SDR para sintonizar emisoras de radio FM y AM.
+    ![FM](./img/fm.png)
 
-- **Monitoreo de Estaciones Meteorológicas:** Utilizando una SDR y una antena adecuada, puedes recibir imágenes en tiempo real de satélites meteorológicos, como los satélites NOAA y Meteor-M.
-
-- **Seguimiento de Satélites:** puedes rastrear satélites de órbita baja. Esto es útil para proyectos de seguimiento de satélites amateur y educativos, y para obtener datos de telemetría de satélites.
+- **Monitoreo de Estaciones Meteorológicas y seguimiento de Satélites:** Utilizando una SDR y una antena adecuada, puedes recibir imágenes en tiempo real de satélites meteorológicos, como los satélites NOAA y Meteor-M también se puede rastrear satélites de órbita baja. Esto es útil para proyectos de seguimiento de satélites amateur y educativos, y para obtener datos de telemetría de satélites.
+    ![NOAA](./img/NOAA.jpg)
 
 - **Radioastronomía:** La radioastronomía es una disciplina que utiliza SDR para estudiar las señales de radio emitidas por objetos celestes en el espacio. Con una SDR y una antena direccional, puedes escuchar y analizar señales de radio cósmicas.
+    ![Radioastronomia](./img/radio.jpg)
 
+- **Detección de meteoros:** Los meteoros al encontrarse con la atmósfera de nuestro planeta. Al entrar a grandes velocidades, producen interferencias que podemos captar si tenemos la suerte de vivir cerca de una emisora de TV analógica. 
+    ![Meteoros](./img/Meteoros.png)
