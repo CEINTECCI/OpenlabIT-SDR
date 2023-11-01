@@ -10,12 +10,13 @@ const config = {
   tagline: 'SDR',
   favicon: 'img/favicon.ico',
 
-  url: ' https://ceintecci.github.io/',
+  url: ' https://CEINTECCI.github.io/',
   baseUrl: '/OpenlabIT-SDR/',
-  organizationName: 'ceintecci', // Usually your GitHub org/user name.
+  organizationName: 'CEINTECCI', // Usually your GitHub org/user name.
   projectName: 'OpenlabIT-SDR', // Usually your repo name.
 
-  //deploymentBranch: "gh-pages",
+  deploymentBranch: "gh-pages",
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
