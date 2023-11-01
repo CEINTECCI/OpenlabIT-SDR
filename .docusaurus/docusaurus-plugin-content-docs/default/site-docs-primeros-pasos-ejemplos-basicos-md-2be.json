@@ -6,7 +6,7 @@
   "source": "@site/docs/Primeros-pasos/Ejemplos-Basicos.md",
   "sourceDirName": "Primeros-pasos",
   "slug": "/Primeros-pasos/Ejemplos-Basicos",
-  "permalink": "/docs/Primeros-pasos/Ejemplos-Basicos",
+  "permalink": "/OpenlabIT-SDR/docs/Primeros-pasos/Ejemplos-Basicos",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Primeros-pasos/Ejemplos-Basicos.md",
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Primeros pasos",
-    "permalink": "/docs/Primeros-pasos/Conceptos-basicos"
+    "permalink": "/OpenlabIT-SDR/docs/Primeros-pasos/Conceptos-basicos"
   },
   "next": {
     "title": "Instalación y configuración GNU radio:",
-    "permalink": "/docs/category/instalación-y-configuración-gnu-radio"
+    "permalink": "/OpenlabIT-SDR/docs/category/instalación-y-configuración-gnu-radio"
   }
 }

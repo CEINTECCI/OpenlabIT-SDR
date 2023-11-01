@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_sdr=self.webpackChunkdoc_sdr||[]).push([[231],{1754:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/OpenlabIT-SDR/blog/tags/facebook","allTagsPath":"/OpenlabIT-SDR/blog/tags","count":1}')}}]);

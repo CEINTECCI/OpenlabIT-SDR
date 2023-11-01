@@ -7,10 +7,10 @@ export default {
   "title": "OpenLab",
   "tagline": "SDR",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "url": "https://CEINTECCI.github.io",
+  "baseUrl": "/OpenlabIT-SDR/",
+  "organizationName": "CEINTECCI",
+  "projectName": "OpenlabIT-SDR",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -75,7 +75,7 @@ export default {
           "items": [
             {
               "label": "Tutorial",
-              "to": "/docs/Inicio"
+              "to": "/docs/SDR"
             }
           ]
         },

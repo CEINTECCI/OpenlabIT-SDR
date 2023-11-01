@@ -12,19 +12,19 @@
       {
         "type": "link",
         "label": "SDR",
-        "href": "/docs/SDR",
+        "href": "/OpenlabIT-SDR/docs/SDR",
         "docId": "SDR"
       },
       {
         "type": "link",
         "label": "Tarjetas SDR",
-        "href": "/docs/Software",
+        "href": "/OpenlabIT-SDR/docs/Software",
         "docId": "Software"
       },
       {
         "type": "link",
         "label": "Introducción a GNU Radio:",
-        "href": "/docs/Inicio",
+        "href": "/OpenlabIT-SDR/docs/Inicio",
         "docId": "Inicio"
       },
       {
@@ -36,17 +36,17 @@
           {
             "type": "link",
             "label": "Primeros pasos",
-            "href": "/docs/Primeros-pasos/Conceptos-basicos",
+            "href": "/OpenlabIT-SDR/docs/Primeros-pasos/Conceptos-basicos",
             "docId": "Primeros-pasos/Conceptos-basicos"
           },
           {
             "type": "link",
             "label": "Ejemplo básico",
-            "href": "/docs/Primeros-pasos/Ejemplos-Basicos",
+            "href": "/OpenlabIT-SDR/docs/Primeros-pasos/Ejemplos-Basicos",
             "docId": "Primeros-pasos/Ejemplos-Basicos"
           }
         ],
-        "href": "/docs/category/primeros-pasos-con-gnu-radio"
+        "href": "/OpenlabIT-SDR/docs/category/primeros-pasos-con-gnu-radio"
       },
       {
         "type": "category",
@@ -57,17 +57,17 @@
           {
             "type": "link",
             "label": "Instalación GNU-Radio",
-            "href": "/docs/Instalacion/Instalacion-GNURADIO",
+            "href": "/OpenlabIT-SDR/docs/Instalacion/Instalacion-GNURADIO",
             "docId": "Instalacion/Instalacion-GNURADIO"
           },
           {
             "type": "link",
             "label": "Configuración USRP",
-            "href": "/docs/Instalacion/Configuracion-USRP",
+            "href": "/OpenlabIT-SDR/docs/Instalacion/Configuracion-USRP",
             "docId": "Instalacion/Configuracion-USRP"
           }
         ],
-        "href": "/docs/category/instalación-y-configuración-gnu-radio"
+        "href": "/OpenlabIT-SDR/docs/category/instalación-y-configuración-gnu-radio"
       }
     ]
   },

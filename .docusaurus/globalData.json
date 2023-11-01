@@ -1,58 +1,58 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/OpenlabIT-SDR/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/OpenlabIT-SDR/docs",
           "mainDocId": "SDR",
           "docs": [
             {
               "id": "Inicio",
-              "path": "/docs/Inicio",
+              "path": "/OpenlabIT-SDR/docs/Inicio",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Instalacion/Configuracion-USRP",
-              "path": "/docs/Instalacion/Configuracion-USRP",
+              "path": "/OpenlabIT-SDR/docs/Instalacion/Configuracion-USRP",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Instalacion/Instalacion-GNURADIO",
-              "path": "/docs/Instalacion/Instalacion-GNURADIO",
+              "path": "/OpenlabIT-SDR/docs/Instalacion/Instalacion-GNURADIO",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Primeros-pasos/Conceptos-basicos",
-              "path": "/docs/Primeros-pasos/Conceptos-basicos",
+              "path": "/OpenlabIT-SDR/docs/Primeros-pasos/Conceptos-basicos",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Primeros-pasos/Ejemplos-Basicos",
-              "path": "/docs/Primeros-pasos/Ejemplos-Basicos",
+              "path": "/OpenlabIT-SDR/docs/Primeros-pasos/Ejemplos-Basicos",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "SDR",
-              "path": "/docs/SDR",
+              "path": "/OpenlabIT-SDR/docs/SDR",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Software",
-              "path": "/docs/Software",
+              "path": "/OpenlabIT-SDR/docs/Software",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/primeros-pasos-con-gnu-radio",
-              "path": "/docs/category/primeros-pasos-con-gnu-radio",
+              "path": "/OpenlabIT-SDR/docs/category/primeros-pasos-con-gnu-radio",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/instalación-y-configuración-gnu-radio",
-              "path": "/docs/category/instalación-y-configuración-gnu-radio",
+              "path": "/OpenlabIT-SDR/docs/category/instalación-y-configuración-gnu-radio",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -60,7 +60,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/SDR",
+                "path": "/OpenlabIT-SDR/docs/SDR",
                 "label": "SDR"
               }
             }
