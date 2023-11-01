@@ -11,15 +11,17 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://CEINTECCI.github.io',
+  url: 'https://github.COM',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/OpenlabIT-SDR',
+  baseUrl: '/OpenlabIT-SDR/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'CEINTECCI', // Usually your GitHub org/user name.
   projectName: 'OpenlabIT-SDR', // Usually your repo name.
+
+  deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
