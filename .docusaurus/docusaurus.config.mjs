@@ -7,7 +7,7 @@ export default {
   "title": "OpenLab",
   "tagline": "SDR",
   "favicon": "img/favicon.ico",
-  "url": "https://ceintecci.github.io",
+  "url": " https://ceintecci.github.io",
   "baseUrl": "/OpenlabIT-SDR/",
   "organizationName": "ceintecci",
   "projectName": "OpenlabIT-SDR",
