@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdoc_sdr=self.webpackChunkdoc_sdr||[]).push([[467],{7894:s=>{s.exports=JSON.parse('{"permalink":"/OpenlabIT-SDR/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
