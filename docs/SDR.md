@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # SDR
 
-Un SDR(Software-Defined Radio), o Radio Definida por Software en español, es un sistema de comunicación que se diferencia de la radio tradicional en dos aspectos fundamentales: El primero de ellos es que la mayor parte de la funcionalidad del SDR es implementada por software en lugar de hardware específico (como se haría en una radio tradicional). Lo anterior le permite al SDR ganar versatilidad en contraste con lo que hace la radio convencional, en esta ultima los circuitos y componentes electrónicos están diseñados para operar en frecuencias específicas y modos de comunicación. Por otro lado, el segundo aspecto reside en que el SDR al ser un sistema altamente configurable  se adapta a una amplia gama de aplicaciones de comunicación y recepción de señales en contraste con el marco de posibilidades que ofrece la radio tradicional en cuanto a la recepción de frecuencias determinadas.
+Un SDR(Software-Defined Radio), o Radio Definida por Software en español, es un sistema de comunicación que se diferencia de la radio tradicional en dos aspectos fundamentales: El primero de ellos es que la mayor parte de la funcionalidad del SDR es implementada por software en lugar de hardware específico (como se haría en una radio tradicional). Lo anterior le permite a la SDR ganar versatilidad en contraste con lo que hace la radio convencional, en esta ultima los circuitos y componentes electrónicos están diseñados para operar en frecuencias específicas y modos de comunicación. Por otro lado, el segundo aspecto reside en que la SDR al ser un sistema altamente configurable  se adapta a una amplia gama de aplicaciones de comunicación y transmisión y recepción de señales en contraste con el marco de posibilidades que ofrece la radio tradicional en cuanto a la recepción de frecuencias determinadas.
 
 La estructura de un sistema SDR se puede dividir en los siguientes componentes:
 
@@ -19,7 +19,7 @@ La estructura de un sistema SDR se puede dividir en los siguientes componentes:
 
 - **Flexibilidad de Frecuencia:** Un SDR puede sintonizar diferentes frecuencias y modos de comunicación mediante la configuración de software. Esto significa que un solo dispositivo SDR puede ser utilizado para recibir y transmitir señales en una amplia gama de bandas de frecuencia, desde ondas de radio AM y FM hasta bandas de radioaficionados, comunicaciones por satélite y más.
 
-- **Flexibilidad de Ancho de banda:** La SDR tiene la capacidad de ajustar el ancho de banda esta es una característica esencial de los SDR. Permite adaptar la recepción a diferentes tipos de señales y condiciones. 
+- **Flexibilidad de Ancho de banda:** La SDR tiene la capacidad de0 ajustar el ancho de banda esta es una característica esencial de los SDR. Permite adaptar la recepción a diferentes tipos de señales y condiciones. 
 
 - **Compacto y Portátil:** Muchos SDR se presentan en formas compactas y portátiles, lo que facilita su transporte y uso en campo. Esto es particularmente útil para aplicaciones de monitoreo y exploración en exteriores.
 
