@@ -21,9 +21,6 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -75,8 +72,8 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://ceintecci.github.io/',
+            label: 'CEINTECCI',
             position: 'right',
           },
         ],
@@ -85,11 +82,15 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentación',
             items: [
               {
-                label: 'Tutorial',// esto es lo de abajo del inicio cambiar cuando este completo 
+                label: 'SDR',// esto es lo de abajo del inicio cambiar cuando este completo 
                 to: '/docs/SDR',
+              },
+              {
+                label: 'Tutorial instalación',// esto es lo de abajo del inicio cambiar cuando este completo 
+                to: '/docs/Inicio',
               },
             ],
           },

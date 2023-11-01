@@ -11,6 +11,8 @@ export default {
   "baseUrl": "/OpenlabIT-SDR/",
   "organizationName": "CEINTECCI",
   "projectName": "OpenlabIT-SDR",
+  "deploymentBranch": "gh-pages",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -60,8 +62,8 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
+          "href": "https://ceintecci.github.io/",
+          "label": "CEINTECCI",
           "position": "right"
         }
       ],
@@ -71,11 +73,15 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Documentación",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "SDR",
               "to": "/docs/SDR"
+            },
+            {
+              "label": "Tutorial instalación",
+              "to": "/docs/Inicio"
             }
           ]
         },
