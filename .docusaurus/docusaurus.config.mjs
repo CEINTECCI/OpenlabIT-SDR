@@ -9,10 +9,10 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://ceintecci.github.io",
   "baseUrl": "/OpenlabIT-SDR/",
-  "organizationName": "CEINTECCI",
+  "organizationName": "ceintecci",
   "projectName": "OpenlabIT-SDR",
   "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "throw",
+  "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [

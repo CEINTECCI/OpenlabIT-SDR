@@ -323,9 +323,9 @@
     "179": {
       "js": [
         {
-          "file": "assets/js/main.5c74b81b.js",
-          "hash": "3350fba3ec22088e",
-          "publicPath": "/OpenlabIT-SDR/assets/js/main.5c74b81b.js"
+          "file": "assets/js/main.70bb6e1d.js",
+          "hash": "ccb07a3a88fed446",
+          "publicPath": "/OpenlabIT-SDR/assets/js/main.70bb6e1d.js"
         }
       ]
     },
@@ -378,7 +378,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.aee09653.js",
-          "hash": "157b31055ca69b8c",
+          "hash": "074cca8678b5088c",
           "publicPath": "/OpenlabIT-SDR/assets/js/runtime~main.aee09653.js"
         }
       ]
