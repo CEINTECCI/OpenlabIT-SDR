@@ -11,9 +11,8 @@ export default {
   "baseUrl": "/OpenlabIT-SDR/",
   "organizationName": "CEINTECCI",
   "projectName": "OpenlabIT-SDR",
-  "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
+  "onBrokenMarkdownLinks": "throw",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
