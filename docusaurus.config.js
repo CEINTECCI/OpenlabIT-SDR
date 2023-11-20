@@ -72,11 +72,11 @@ const config = {
           },
           ////////////////////////////////////// BOTON DE ARRIBA AL LADO DEL INICIO /////////////////////////////////////////////////
           // {to: '/blog', label: 'Blog', position: 'left'},
-          // {
-          //   href: 'https://ceintecci.github.io/',
-          //   label: 'CEINTECCI',
-          //   position: 'right',
-          // },
+          {
+            href: 'https://ceintecci.github.io/',
+            label: 'CEINTECCI',
+            position: 'right',
+          },
         ],
       },
       footer: {
@@ -96,7 +96,7 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Comunidad',
             items: [
               {
                 label: 'GitHub',
@@ -109,7 +109,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Reservas laboratorios CEINTECCI',
             items: [
               {
                 label: 'Reserva Blab',
@@ -130,7 +130,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Open-lab SDR CEINTECCI, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

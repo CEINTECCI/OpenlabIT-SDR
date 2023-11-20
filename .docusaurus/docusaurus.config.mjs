@@ -55,6 +55,11 @@ export default {
           "sidebarId": "tutorialSidebar",
           "position": "left",
           "label": "Inicio"
+        },
+        {
+          "href": "https://ceintecci.github.io/",
+          "label": "CEINTECCI",
+          "position": "right"
         }
       ],
       "hideOnScroll": false
@@ -76,7 +81,7 @@ export default {
           ]
         },
         {
-          "title": "Community",
+          "title": "Comunidad",
           "items": [
             {
               "label": "GitHub",
@@ -89,7 +94,7 @@ export default {
           ]
         },
         {
-          "title": "More",
+          "title": "Reservas laboratorios CEINTECCI",
           "items": [
             {
               "label": "Reserva Blab",
@@ -110,7 +115,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2023 Open-lab SDR CEINTECCI, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {
