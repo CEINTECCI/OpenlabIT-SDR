@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Bienvenido al Open Lab de Radio Definida por Software (SDR).',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        En este espacio, exploraremos la Radio Definida por Software, 
+        una tecnología que reemplaza la funcionalidad tradicional de los componentes de hardware de radio con software.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Explorando las Capacidades de SDR.',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Te invitamos a explorar las vastas posibilidades que ofrece la Radio Definida por Software (SDR).
+        Desde la capacidad de reconfiguración en tiempo real hasta la capacidad de procesar una amplia gama de frecuencias
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Descubre el Futuro de las Comunicaciones:',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Desde la experimentación práctica hasta la comprensión profunda de las tecnologías emergentes, 
+        nuestra plataforma te guiará a través de las maravillas de la SDR.
       </>
     ),
   },

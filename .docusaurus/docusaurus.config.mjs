@@ -55,16 +55,6 @@ export default {
           "sidebarId": "tutorialSidebar",
           "position": "left",
           "label": "Inicio"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://ceintecci.github.io/",
-          "label": "CEINTECCI",
-          "position": "right"
         }
       ],
       "hideOnScroll": false
@@ -89,16 +79,12 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "GitHub",
+              "href": "https://github.com/CEINTECCI"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "CEINTECCI",
+              "href": "https://ceintecci.github.io/"
             }
           ]
         },
@@ -106,12 +92,20 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
+              "label": "Reserva Blab",
+              "href": "https://forms.gle/snUwdTGedjBbZjZT7"
             },
             {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "Laboratorio de simulación y ciencia de datos",
+              "href": "https://forms.gle/AoBvjysndeZ3NdYa7"
+            },
+            {
+              "label": "Laboratorio IT",
+              "href": "https://forms.gle/1PrpEudnjKDL28w29"
+            },
+            {
+              "label": "Laboratorio realidad virtual y aumentada",
+              "href": "https://forms.gle/9wuFJfFtsuBRBwyZ6"
             }
           ]
         }
