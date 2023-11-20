@@ -70,7 +70,7 @@ const config = {
             position: 'left',
             label: 'Inicio',
           },
-          ////////////////////////////////////// BOTON DE ARRIBA AL LADO DEL INICIO /////////////////////////////////////////////////
+          ////////////////////////////////////// BOTÓN DE ARRIBA AL LADO DEL INICIO /////////////////////////////////////////////////
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://ceintecci.github.io/',
