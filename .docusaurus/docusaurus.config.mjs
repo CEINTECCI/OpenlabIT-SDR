@@ -28,7 +28,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\dfgom\\OneDrive\\Documentos\\Docusaurus\\OpenlabIT-SDR\\sidebars.js",
+          "sidebarPath": "C:\\Users\\dfgom\\OneDrive\\Documentos\\GitHub\\OpenlabIT-SDR\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -36,7 +36,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "C:\\Users\\dfgom\\OneDrive\\Documentos\\Docusaurus\\OpenlabIT-SDR\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\dfgom\\OneDrive\\Documentos\\GitHub\\OpenlabIT-SDR\\src\\css\\custom.css"
         }
       }
     ]
@@ -115,7 +115,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 Open-lab SDR CEINTECCI, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2024 Open-lab SDR CEINTECCI, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {

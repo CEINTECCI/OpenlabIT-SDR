@@ -4,102 +4,102 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/OpenlabIT-SDR/__docusaurus/debug',
-    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug', '8ac'),
+    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug', 'dbd'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/__docusaurus/debug/config',
-    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/config', 'e3a'),
+    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/config', '458'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/__docusaurus/debug/content',
-    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/content', '7b8'),
+    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/content', '1fe'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/__docusaurus/debug/globalData',
-    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/globalData', 'b2a'),
+    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/globalData', '026'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/__docusaurus/debug/metadata',
-    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/metadata', 'fd9'),
+    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/metadata', 'bb1'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/__docusaurus/debug/registry',
-    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/registry', 'e60'),
+    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/registry', '277'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/__docusaurus/debug/routes',
-    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/routes', '196'),
+    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/routes', 'a74'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/blog',
-    component: ComponentCreator('/OpenlabIT-SDR/blog', '923'),
+    component: ComponentCreator('/OpenlabIT-SDR/blog', '978'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/blog/archive',
-    component: ComponentCreator('/OpenlabIT-SDR/blog/archive', '7cd'),
+    component: ComponentCreator('/OpenlabIT-SDR/blog/archive', '3d0'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/blog/first-blog-post',
-    component: ComponentCreator('/OpenlabIT-SDR/blog/first-blog-post', '4f6'),
+    component: ComponentCreator('/OpenlabIT-SDR/blog/first-blog-post', '695'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/blog/long-blog-post',
-    component: ComponentCreator('/OpenlabIT-SDR/blog/long-blog-post', '815'),
+    component: ComponentCreator('/OpenlabIT-SDR/blog/long-blog-post', 'fe2'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/blog/mdx-blog-post',
-    component: ComponentCreator('/OpenlabIT-SDR/blog/mdx-blog-post', '28e'),
+    component: ComponentCreator('/OpenlabIT-SDR/blog/mdx-blog-post', 'ba0'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/blog/tags',
-    component: ComponentCreator('/OpenlabIT-SDR/blog/tags', '4cc'),
+    component: ComponentCreator('/OpenlabIT-SDR/blog/tags', '229'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/blog/tags/docusaurus',
-    component: ComponentCreator('/OpenlabIT-SDR/blog/tags/docusaurus', '3be'),
+    component: ComponentCreator('/OpenlabIT-SDR/blog/tags/docusaurus', '5fd'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/blog/tags/facebook',
-    component: ComponentCreator('/OpenlabIT-SDR/blog/tags/facebook', '2c6'),
+    component: ComponentCreator('/OpenlabIT-SDR/blog/tags/facebook', '5c0'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/blog/tags/hello',
-    component: ComponentCreator('/OpenlabIT-SDR/blog/tags/hello', '7cb'),
+    component: ComponentCreator('/OpenlabIT-SDR/blog/tags/hello', 'cf8'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/blog/tags/hola',
-    component: ComponentCreator('/OpenlabIT-SDR/blog/tags/hola', '4dd'),
+    component: ComponentCreator('/OpenlabIT-SDR/blog/tags/hola', '023'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/blog/welcome',
-    component: ComponentCreator('/OpenlabIT-SDR/blog/welcome', '974'),
+    component: ComponentCreator('/OpenlabIT-SDR/blog/welcome', '6a2'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/markdown-page',
-    component: ComponentCreator('/OpenlabIT-SDR/markdown-page', '316'),
+    component: ComponentCreator('/OpenlabIT-SDR/markdown-page', 'ef3'),
     exact: true
   },
   {
     path: '/OpenlabIT-SDR/docs',
-    component: ComponentCreator('/OpenlabIT-SDR/docs', '051'),
+    component: ComponentCreator('/OpenlabIT-SDR/docs', 'e1a'),
     routes: [
       {
         path: '/OpenlabIT-SDR/docs/category/instalación-y-configuración-gnu-radio',
@@ -159,7 +159,7 @@ export default [
   },
   {
     path: '/OpenlabIT-SDR/',
-    component: ComponentCreator('/OpenlabIT-SDR/', 'ca9'),
+    component: ComponentCreator('/OpenlabIT-SDR/', '9de'),
     exact: true
   },
   {
