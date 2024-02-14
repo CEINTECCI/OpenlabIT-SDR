@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/OpenlabIT-SDR/__docusaurus/debug',
-    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug', 'dbd'),
-    exact: true
-  },
-  {
-    path: '/OpenlabIT-SDR/__docusaurus/debug/config',
-    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/config', '458'),
-    exact: true
-  },
-  {
-    path: '/OpenlabIT-SDR/__docusaurus/debug/content',
-    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/content', '1fe'),
-    exact: true
-  },
-  {
-    path: '/OpenlabIT-SDR/__docusaurus/debug/globalData',
-    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/globalData', '026'),
-    exact: true
-  },
-  {
-    path: '/OpenlabIT-SDR/__docusaurus/debug/metadata',
-    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/metadata', 'bb1'),
-    exact: true
-  },
-  {
-    path: '/OpenlabIT-SDR/__docusaurus/debug/registry',
-    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/registry', '277'),
-    exact: true
-  },
-  {
-    path: '/OpenlabIT-SDR/__docusaurus/debug/routes',
-    component: ComponentCreator('/OpenlabIT-SDR/__docusaurus/debug/routes', 'a74'),
-    exact: true
-  },
-  {
     path: '/OpenlabIT-SDR/blog',
     component: ComponentCreator('/OpenlabIT-SDR/blog', '978'),
     exact: true

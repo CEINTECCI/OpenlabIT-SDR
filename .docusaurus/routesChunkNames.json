@@ -1,239 +1,196 @@
 {
-  "/OpenlabIT-SDR/__docusaurus/debug-dbd": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---openlab-it-sdr-docusaurus-debug-5-a-4-c08"
-    }
-  },
-  "/OpenlabIT-SDR/__docusaurus/debug/config-458": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---openlab-it-sdr-docusaurus-debug-5-a-4-c08"
-    }
-  },
-  "/OpenlabIT-SDR/__docusaurus/debug/content-1fe": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---openlab-it-sdr-docusaurus-debug-5-a-4-c08"
-    },
-    "allContent": "allContent---openlab-it-sdr-docusaurus-debug-content-246-35e"
-  },
-  "/OpenlabIT-SDR/__docusaurus/debug/globalData-026": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---openlab-it-sdr-docusaurus-debug-5-a-4-c08"
-    }
-  },
-  "/OpenlabIT-SDR/__docusaurus/debug/metadata-bb1": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---openlab-it-sdr-docusaurus-debug-5-a-4-c08"
-    }
-  },
-  "/OpenlabIT-SDR/__docusaurus/debug/registry-277": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---openlab-it-sdr-docusaurus-debug-5-a-4-c08"
-    }
-  },
-  "/OpenlabIT-SDR/__docusaurus/debug/routes-a74": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---openlab-it-sdr-docusaurus-debug-5-a-4-c08"
-    }
-  },
   "/OpenlabIT-SDR/blog-978": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---openlab-it-sdr-blogd-2-e-8b0"
+      "plugin": "d2e7b349"
     },
-    "sidebar": "sidebar---openlab-it-sdr-blog-814-5a4",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---openlab-it-sdr-blog-766-069"
+        "content": "7661071f"
       },
       {
-        "content": "content---openlab-it-sdr-blogf-4-f-2da"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---openlab-it-sdr-blog-871-52e"
+        "content": "8717b14a"
       },
       {
-        "content": "content---openlab-it-sdr-blog-925-641"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "metadata---openlab-it-sdr-blog-717-db2"
+    "metadata": "71764c26"
   },
   "/OpenlabIT-SDR/blog/archive-3d0": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---openlab-it-sdr-blogd-2-e-8b0"
+      "plugin": "d2e7b349"
     },
-    "archive": "archive---openlab-it-sdr-blog-archivea-80-1bf"
+    "archive": "a808e361"
   },
   "/OpenlabIT-SDR/blog/first-blog-post-695": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---openlab-it-sdr-blogd-2-e-8b0"
+      "plugin": "d2e7b349"
     },
-    "sidebar": "sidebar---openlab-it-sdr-blog-814-5a4",
-    "content": "content---openlab-it-sdr-blog-first-blog-poste-27-5e2"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
   "/OpenlabIT-SDR/blog/long-blog-post-fe2": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---openlab-it-sdr-blogd-2-e-8b0"
+      "plugin": "d2e7b349"
     },
-    "sidebar": "sidebar---openlab-it-sdr-blog-814-5a4",
-    "content": "content---openlab-it-sdr-blog-long-blog-post-736-ffa"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
   "/OpenlabIT-SDR/blog/mdx-blog-post-ba0": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---openlab-it-sdr-blogd-2-e-8b0"
+      "plugin": "d2e7b349"
     },
-    "sidebar": "sidebar---openlab-it-sdr-blog-814-5a4",
-    "content": "content---openlab-it-sdr-blog-mdx-blog-post-593-cea"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
   "/OpenlabIT-SDR/blog/tags-229": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---openlab-it-sdr-blogd-2-e-8b0"
+      "plugin": "d2e7b349"
     },
-    "sidebar": "sidebar---openlab-it-sdr-blog-814-5a4",
-    "tags": "tags---openlab-it-sdr-blog-tagsd-99-049"
+    "sidebar": "814f3328",
+    "tags": "d9958b67"
   },
   "/OpenlabIT-SDR/blog/tags/docusaurus-5fd": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---openlab-it-sdr-blogd-2-e-8b0"
+      "plugin": "d2e7b349"
     },
-    "sidebar": "sidebar---openlab-it-sdr-blog-814-5a4",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---openlab-it-sdr-blog-766-069"
+        "content": "7661071f"
       },
       {
-        "content": "content---openlab-it-sdr-blogf-4-f-2da"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---openlab-it-sdr-blog-871-52e"
+        "content": "8717b14a"
       },
       {
-        "content": "content---openlab-it-sdr-blog-925-641"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---openlab-it-sdr-blog-tags-docusaurusf-33-d4f",
-    "listMetadata": "listMetadata---openlab-it-sdr-blog-tags-docusaurus-5-de-859"
+    "tag": "f339366a",
+    "listMetadata": "5de91820"
   },
   "/OpenlabIT-SDR/blog/tags/facebook-5c0": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---openlab-it-sdr-blogd-2-e-8b0"
+      "plugin": "d2e7b349"
     },
-    "sidebar": "sidebar---openlab-it-sdr-blog-814-5a4",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---openlab-it-sdr-blog-766-069"
+        "content": "7661071f"
       }
     ],
-    "tag": "tag---openlab-it-sdr-blog-tags-facebookcc-8-dcd",
-    "listMetadata": "listMetadata---openlab-it-sdr-blog-tags-facebook-7-f-0-36a"
+    "tag": "cc8e6178",
+    "listMetadata": "7f0ef7b8"
   },
   "/OpenlabIT-SDR/blog/tags/hello-cf8": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---openlab-it-sdr-blogd-2-e-8b0"
+      "plugin": "d2e7b349"
     },
-    "sidebar": "sidebar---openlab-it-sdr-blog-814-5a4",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---openlab-it-sdr-blog-766-069"
+        "content": "7661071f"
       },
       {
-        "content": "content---openlab-it-sdr-blog-871-52e"
+        "content": "8717b14a"
       }
     ],
-    "tag": "tag---openlab-it-sdr-blog-tags-hello-43-c-2d8",
-    "listMetadata": "listMetadata---openlab-it-sdr-blog-tags-hello-034-1e1"
+    "tag": "43c96f41",
+    "listMetadata": "0344113a"
   },
   "/OpenlabIT-SDR/blog/tags/hola-023": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---openlab-it-sdr-blogd-2-e-8b0"
+      "plugin": "d2e7b349"
     },
-    "sidebar": "sidebar---openlab-it-sdr-blog-814-5a4",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---openlab-it-sdr-blog-925-641"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---openlab-it-sdr-blog-tags-holac-0-e-ee2",
-    "listMetadata": "listMetadata---openlab-it-sdr-blog-tags-hola-2-aa-442"
+    "tag": "c0ed145c",
+    "listMetadata": "2aa854a8"
   },
   "/OpenlabIT-SDR/blog/welcome-6a2": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---openlab-it-sdr-blogd-2-e-8b0"
+      "plugin": "d2e7b349"
     },
-    "sidebar": "sidebar---openlab-it-sdr-blog-814-5a4",
-    "content": "content---openlab-it-sdr-blog-welcomed-9-f-d64"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/OpenlabIT-SDR/markdown-page-ef3": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---openlab-it-sdr-markdown-page-634-3c5"
+      "plugin": "634ca951"
     },
-    "content": "content---openlab-it-sdr-markdown-page-393-dc9"
+    "content": "393be207"
   },
   "/OpenlabIT-SDR/docs-e1a": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---openlab-it-sdr-docs-37-c-c6d"
+      "plugin": "37c96b49"
     },
-    "versionMetadata": "versionMetadata---openlab-it-sdr-docs-935-555"
+    "versionMetadata": "935f2afb"
   },
   "/OpenlabIT-SDR/docs/category/instalación-y-configuración-gnu-radio-993": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---openlab-it-sdr-docs-category-instalacion-y-configuracion-gnu-radio-119-e66"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "11917d11"
   },
   "/OpenlabIT-SDR/docs/category/primeros-pasos-con-gnu-radio-ef5": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---openlab-it-sdr-docs-category-primeros-pasos-con-gnu-radio-5-ba-d81"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "5ba37043"
   },
   "/OpenlabIT-SDR/docs/Inicio-62d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---openlab-it-sdr-docs-inicio-911-382"
+    "__comp": "17896441",
+    "content": "9110a78c"
   },
   "/OpenlabIT-SDR/docs/Instalacion/Configuracion-USRP-e8a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---openlab-it-sdr-docs-instalacion-configuracion-usrp-533-e47"
+    "__comp": "17896441",
+    "content": "53355ba1"
   },
   "/OpenlabIT-SDR/docs/Instalacion/Instalacion-GNURADIO-600": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---openlab-it-sdr-docs-instalacion-instalacion-gnuradio-5-b-0-3ba"
+    "__comp": "17896441",
+    "content": "5b0ecf4d"
   },
   "/OpenlabIT-SDR/docs/Primeros-pasos/Conceptos-basicos-d53": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---openlab-it-sdr-docs-primeros-pasos-conceptos-basicosfed-ac2"
+    "__comp": "17896441",
+    "content": "fed2fdf2"
   },
   "/OpenlabIT-SDR/docs/Primeros-pasos/Ejemplos-Basicos-ee7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---openlab-it-sdr-docs-primeros-pasos-ejemplos-basicos-2-be-5b2"
+    "__comp": "17896441",
+    "content": "2bee3a10"
   },
   "/OpenlabIT-SDR/docs/SDR-15d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---openlab-it-sdr-docs-sdr-0-b-4-8ca"
+    "__comp": "17896441",
+    "content": "0b49b4a0"
   },
   "/OpenlabIT-SDR/docs/Software-e65": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---openlab-it-sdr-docs-software-076-110"
+    "__comp": "17896441",
+    "content": "0767521e"
   },
   "/OpenlabIT-SDR/-9de": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---openlab-it-sdr-markdown-page-634-3c5"
+      "plugin": "634ca951"
     },
-    "config": "config---openlab-it-sdr-5-e-9-e0d"
+    "config": "5e9f5e1a"
   }
 }
